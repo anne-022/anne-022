@@ -3,10 +3,6 @@
 - 🌱 I’m currently learning Alura
 - 💞️ I’m looking to collaborate on linguagem JavaScript
 - 📫 How to reach me @00001134489559sp@al.educacao.sp.gov.br
-- 😄 Pronouns: ...
-- ⚡ Fun fact: 
 
-<!---
-anne-022/anne-022 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+![descrição do GIF](https://pa1.aminoapps.com/6908/e1ea68668239d41258556a0c03d875424c57ca85r1-315-209_00.gif)
